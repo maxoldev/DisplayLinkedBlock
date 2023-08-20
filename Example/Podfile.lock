@@ -1,0 +1,16 @@
+PODS:
+  - DisplayLinkedBlock (1.0.0)
+
+DEPENDENCIES:
+  - DisplayLinkedBlock (from `../`)
+
+EXTERNAL SOURCES:
+  DisplayLinkedBlock:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DisplayLinkedBlock: ea6aa42c572812e30b6d991afd058bab65131d89
+
+PODFILE CHECKSUM: f90297a1f6762c270b364e7858c1df38bac393ae
+
+COCOAPODS: 1.12.1
