@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" alt="icon"/></p>
+<p align="center"><img src="icon.png" width=256 alt="icon"/></p>
 
 # DisplayLinkedBlock
 
