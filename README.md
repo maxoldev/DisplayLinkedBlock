@@ -24,3 +24,7 @@ Max Sol, maxoldev@gmail.com
 ## License
 
 DisplayLinkedBlock is available under the MIT license. See the LICENSE file for more info.
+
+<a href="https://www.flaticon.com/free-icons/iphone" title="iphone icons">Iphone icons created by Yuju - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/link" title="link icons">Link icons created by Freepik - Flaticon</a>
